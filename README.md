@@ -21,8 +21,8 @@ I am not saying that code is perfect, it's just a POC and design can certainly b
 
 **Areas of Improvements**
 
-a. Over all design
-b. Exception Handling
-c. Unit Testing
-d. Coding Standard
-e. Graphics and Animation
+ 1. Over all design 
+ 2. Exception Handling 
+ 3. Unit Testing 
+ 4. Coding Standard
+ 5. Graphics and Animation
