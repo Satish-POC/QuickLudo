@@ -3,7 +3,7 @@
 # QuickLudo
 Ludo Board Game created with Unity and Fun.
 
-*** Purpose of the project is not focusing on coding standard but to learn some of the physics used in game and how gaming engine works. It truely undermines my .net coding otherwise.***
+***Purpose of the project is not focusing on coding standard but to learn some of the physics used in game and how gaming engine works. It truely undermines my .net coding otherwise.***
 
 It's a hobby project. [Ludo](https://en.wikipedia.org/wiki/Ludo_%28board_game%29) is a board game.
 
