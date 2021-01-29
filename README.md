@@ -3,7 +3,7 @@
 # QuickLudo
 Ludo Board Game created with Unity and Fun.
 
-
+*** Purpose of the project is not focusing on coding standard but to learn some of the physics used in game and how gaming engine works. It truely undermines my .net coding otherwise.***
 
 It's a hobby project. [Ludo](https://en.wikipedia.org/wiki/Ludo_%28board_game%29) is a board game.
 
@@ -17,7 +17,7 @@ Some of the advantages over what others are doing.
 4. Making use of Event handlers.
 5. Condensed and maintainable code.
 
-I am not saying that code is perfect, it's just a POC and design can certainly be improved by greater extent. However, it's an effort to improve design while learning new technology alongside.
+
 
 **Areas of Improvements**
 
